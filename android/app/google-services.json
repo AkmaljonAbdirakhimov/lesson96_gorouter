@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25541878029",
+    "project_id": "my-tadbiro-project",
+    "storage_bucket": "my-tadbiro-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25541878029:android:90b19f159d21db38105044",
+        "android_client_info": {
+          "package_name": "com.example.lesson96_gorouter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrfdiA1Hws79WjCCoeAxOFKmEj_rKEZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25541878029:android:050a3121ac2a65e9105044",
+        "android_client_info": {
+          "package_name": "com.example.tadbiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrfdiA1Hws79WjCCoeAxOFKmEj_rKEZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
